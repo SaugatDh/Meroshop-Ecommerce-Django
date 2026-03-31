@@ -1,7 +1,7 @@
-# Heritage Hearth - E-commerce Platform
+# Meroshop - E-commerce Platform
 
 ## Project Overview
-This is a modern e-commerce platform for "Heritage Hearth," a luxury Nepalese craft brand. It features a Django backend and a React frontend styled with Tailwind CSS.
+This is a modern e-commerce platform for "Meroshop". It features a Django backend and a React frontend styled with Tailwind CSS.
 
 ## Technologies Used
 *   **Backend:** Django, Django Rest Framework
