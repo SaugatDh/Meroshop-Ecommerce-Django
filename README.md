@@ -11,7 +11,7 @@ This is a modern e-commerce platform for "Meroshop". It features a Django backen
 *   **Fonts:** Manrope, Inter
 
 ## Project Structure
-*   `heritage_hearth_backend/`: Django project configuration.
+*   `ackend/`: Django project configuration.
 *   `shop/`: Django application for e-commerce logic (Models, Views, API).
 *   `frontend/`: React frontend project.
 *   `public/product/`: Directory for static product images.
